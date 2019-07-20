@@ -1,6 +1,6 @@
-# The OpenPecha Project
+# The OpenPoti Project
 
-The OpenPecha project is providing:
+The OpenPoti project is providing:
 - a [format](format/) to represent a text with all sorts of annotations
 - a [toolkit](toolkit/) working on the format (import / export, update, etc.)
 - a [repository](repository/) of texts in this format
