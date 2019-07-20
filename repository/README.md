@@ -1,6 +1,6 @@
-# OpenPecha repository
+# OpenPoti repository
 
-The OpenPecha repository is a [Github organization](https://github.com/OpenPecha/), where each text is recorded in a Github repository.
+The OpenPoti repository is a [Github organization](https://github.com/OpenPoti/), where each text is recorded in a Github repository.
 
 A pipeline is used to import texts from various sources. The repository is the base of the BDRC Corpus which is available through the BUDA platform.
 

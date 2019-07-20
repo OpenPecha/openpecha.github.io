@@ -1,6 +1,6 @@
-# OpenPecha toolkit
+# OpenPoti toolkit
 
-The toolkit is an open source Python library hosted on [Github](https://github.com/OpenPecha/openpecha-toolkit).
+The toolkit is an open source Python library hosted on [Github](https://github.com/OpenPoti/openpoti-toolkit).
 
 ## Toolkit features
 * File format converter optimized for Tibetan documents
@@ -15,7 +15,7 @@ The toolkit is an open source Python library hosted on [Github](https://github.c
 
 To suggest a new file format, create a new issue and include a link to a Tibetan language file that uses that format.
 
-### How to install the OpenPecha toolkit
+### How to install the OpenPoti toolkit
 
 Open terminal
 Type this
@@ -24,9 +24,9 @@ Type this
 
 #### How to export annotated texts
 
-When you export a file from OpenPecha, you can choose the file format you’d like to export to and you can choose the annotation layers you’d like your new version to include
+When you export a file from OpenPoti, you can choose the file format you’d like to export to and you can choose the annotation layers you’d like your new version to include
 
-* Open the OpenPecha interface.
+* Open the OpenPoti interface.
 * Click on the layers you’d like to include.
 * Choose your desired file format
 * Choose a download location

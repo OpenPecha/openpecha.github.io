@@ -1,4 +1,4 @@
-## How to add new texts to OpenPecha
+## How to add new texts to OpenPoti
 
 * Step one
 * Step two
