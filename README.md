@@ -2,6 +2,9 @@
 
 # The OpenPecha Project 2
 
+<script>
+  var i = 5;
+</script>
 
 The OpenPecha project is providing:
 - a [format](format/) to represent a text with all sorts of annotations
