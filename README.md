@@ -6,6 +6,10 @@
   var i = 5;
 </script>
 
+<button type="button">Click Me!</button>
+
+{% include button.html url="http://www.google.com" %}
+
 The OpenPecha project is providing:
 - a [format](format/) to represent a text with all sorts of annotations
 - a [toolkit](toolkit/) working on the format (import / export, update, etc.)
