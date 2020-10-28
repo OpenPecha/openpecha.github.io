@@ -1,37 +1,7 @@
- Image API 3.0 — IIIF | International Image Interoperability Framework            
+Editor API 1.0 — OpenPecha
 
-[Home](https://iiif.io/ "IIIF : International Image Interoperability Framework")
-
-*   [About](https://iiif.io/about/)
-*   [Technical Details](https://iiif.io/technical-details/)
-*   [Apps & Demos](https://iiif.io/apps-demos/)
-*   [Community](https://iiif.io/community/)
-*   [Events](https://iiif.io/event/)
-*   [News](https://iiif.io/news/)
-
-IIIF Image API 3.0
+OpenPecha Editor API 1.0
 ==================
-
-Status of this Document
------------------------
-
-**This Version:** 3.0.0
-
-**Latest Stable Version:** [3.0.0](/api/image/3.0/ "Image API")
-
-**Previous Version:** [2.1.1](/api/image/2.1/ "Image API 2.1")
-
-**Editors:**
-
-*   **[Michael Appleby](https://orcid.org/0000-0002-1266-298X)** [![ORCID iD](/img/orcid_16x16.png)](https://orcid.org/0000-0002-1266-298X), [_Yale University_](http://www.yale.edu/)
-*   **[Tom Crane](https://orcid.org/0000-0003-1881-243X)** [![ORCID iD](/img/orcid_16x16.png)](https://orcid.org/0000-0003-1881-243X), [_Digirati_](http://digirati.com/)
-*   **[Robert Sanderson](https://orcid.org/0000-0003-4441-6852)** [![ORCID iD](/img/orcid_16x16.png)](https://orcid.org/0000-0003-4441-6852), [_J. Paul Getty Trust_](http://www.getty.edu/)
-*   **[Jon Stroop](https://orcid.org/0000-0002-0367-1243)** [![ORCID iD](/img/orcid_16x16.png)](https://orcid.org/0000-0002-0367-1243), [_Princeton University Library_](https://library.princeton.edu/)
-*   **[Simeon Warner](https://orcid.org/0000-0002-7970-7855)** [![ORCID iD](/img/orcid_16x16.png)](https://orcid.org/0000-0002-7970-7855), [_Cornell University_](https://www.cornell.edu/)
-
-_Copyright © 2012-2020 Editors and contributors. Published by the IIIF Consortium under the [CC-BY](http://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 International") license, see [disclaimer](/api/annex/notes/disclaimer/)._
-
-* * *
 
 Table of Contents
 -----------------
