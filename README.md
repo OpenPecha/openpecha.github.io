@@ -1,6 +1,6 @@
 # The OpenPecha Project
 
-<button type="button">Download</button>
+<button href="https://github.com/OpenPecha/openpecha.github.io/blob/master/repository/README.md" download="README.md" type="button">Download</button>
 
 <a href="https://github.com/OpenPecha/openpecha.github.io/blob/master/repository/README.md" download="README.md">Download</a>
 
