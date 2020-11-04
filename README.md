@@ -2,12 +2,6 @@
 
 # The OpenPecha Project 2
 
-<script>
-  var i = 5;
-</script>
-
-<button type="button">Click Me!</button>
-
 The OpenPecha project is providing:
 - a [format](format/) to represent a text with all sorts of annotations
 - a [toolkit](toolkit/) working on the format (import / export, update, etc.)
