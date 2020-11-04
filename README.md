@@ -1,7 +1,5 @@
 # The OpenPecha Project
 
-# The OpenPecha Project 2
-
 <button type="button">Click Me!</button>
 
 The OpenPecha project is providing:
