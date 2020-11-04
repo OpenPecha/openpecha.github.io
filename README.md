@@ -2,6 +2,8 @@
 
 # The OpenPecha Project 2
 
+<button type="button">Click Me!</button>
+
 The OpenPecha project is providing:
 - a [format](https://openpecha.github.io/format/) to represent a text with all sorts of annotations
 - a [toolkit](https://openpecha.github.io/toolkit/) working on the format (import / export, update, etc.)
