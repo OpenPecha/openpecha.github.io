@@ -3,10 +3,10 @@
 # The OpenPecha Project 2
 
 The OpenPecha project is providing:
-- a [format](format/) to represent a text with all sorts of annotations
-- a [toolkit](toolkit/) working on the format (import / export, update, etc.)
-- a [repository](repository/) of texts in this format
-- a [catalog](catalog/) of all the text published in this format
+- a [format](https://openpecha.github.io/format/) to represent a text with all sorts of annotations
+- a [toolkit](https://openpecha.github.io/toolkit/) working on the format (import / export, update, etc.)
+- a [repository](https://openpecha.github.io/repository/) of texts in this format
+- a [catalog](https://openpecha.github.io/catalog/) of all the text published in this format
 
 OpenPecha is an open collaborative initiative started by [BDRC](tbrc.org). 
 
