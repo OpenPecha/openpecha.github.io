@@ -2,7 +2,7 @@
 
 <button href="https://github.com/OpenPecha/openpecha.github.io/blob/master/repository/README.md" download="README.md" type="button">Download</button>
 
-<a href="https://github.com/OpenPecha/openpecha.github.io/blob/master/repository/README.md" download>Download</a>
+<a id="raw-url" href="https://github.com/OpenPecha/openpecha.github.io/blob/master/repository/README.md">Download</a>
 
 The OpenPecha project is providing:
 - a [format](https://openpecha.github.io/format/) to represent a text with all sorts of annotations
