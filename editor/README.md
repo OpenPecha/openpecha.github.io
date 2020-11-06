@@ -5,3 +5,6 @@ HFML—Human-Friendly Markup Language (https://github.com/OpenPecha/hfml)—is a
 To track HFML annotations across versions, every annotation is given a unique ID (unique IDs are essential for annotation transfer as well as linked data). As mentioned above, embedding IDs directly can lead to unwieldy character strings that are unintuitive for users (OPF utilizes UUID4). So OpenPecha makes use of Tofu-IDs. These are user-friendly, since they embed as single characters, while still preserving annotation IDs. In other words, annotations in OPF are tracked using UUID4 (a system of universally unique identifiers); in HFML, this UUID is rendered as a Tofu-ID to give it a user-friendly view. 
 
 # Editor
+[Openpecha editor](http://editor.openpecha.org/P000100) uses [HFML](https://github.com/OpenPecha/hfml) for creating and 
+uploading new annotations, and [openpecha-toolkit](https://github.com/OpenPecha/openpecha-toolkit) for parsing annotated
+text from the editor and converting OPF pecha to format like .epub.
