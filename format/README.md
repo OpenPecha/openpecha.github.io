@@ -3,7 +3,7 @@
 ## OPF structure
 
 OPF is an open folder format, which means it’s not a compiled file, but simply an open folder with a specific hierarchy. Every OpenPecha file consists of a base text (or base texts, in the case of works with multiple volumes) in plain text (ie, v001.txt, also called the base layer) in the “base” folder and its annotations (layer_name.yml) in the corresponding “v001” folder of the “layers” folder. OPF assumes that pecha with a single base layer has only one volume. A sample OPF file might have an internal structure something like this: 
-- 📁  P000780.opf
+- 📁  [P000780.opf](https://github.com/OpenPecha/P000780/tree/master/P000780.opf)
   - 📄 index.yml
   - 📄 meta.yml
   - 📁 base
