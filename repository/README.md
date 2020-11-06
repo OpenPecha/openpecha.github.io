@@ -1,22 +1,22 @@
-# OpenPoti repository
+# OpenPecha Repositories
 
-The OpenPoti repository is a [Github organization](https://github.com/OpenPoti/), where each text is recorded in a Github repository.
+OpenPecha etexts are stored as Git repositories. At its heart, Git is a version control system that manages and stores revisions of digital projects. OpenPecha simply uses Git to store and manage versions of Tibetan texts. Within the Git system, OPF files come with the following branches: 
+- **Master**
+  The master branch contains the .opf, which is protected
+  Only admins and text owners can directly update the master branch from the other online branches 
 
-A pipeline is used to import texts from various sources. The repository is the base of the BDRC Corpus which is available through the BUDA platform.
+- **Publication**
+  The publication branch is for collaboratively improving the text
+  Only admin or text owners can merge changes from the publication branch to the master branch
+  Github action is set up in such a way that it looks for commands issued by the owner in the commits, then updates the .opf in the master branch if there are changes in the publication branch
 
-#### Repository features
-* GitHub-hosted library includes more than X Tibetan language texts
-* Raw text versions of each work are available for scholarly use
-* Annotations for each text are stored in separate files for easy export (see toolkit features)
-* Optimized versions of each text are available from leading Tibetan-language publishers
-* Includes system for reporting spelling, formatting and punctuation errors to publishers
-* GitHub’s workflow allows colleagues to easily update existing editions or create new one
+- **Custom repos**:
+  This is where users outside of the collaboration team can edit text and export the text into a desirable format—so long as the parser can handle the user’s specifications, they can collaborate with OpenPecha to create it
+  These edits are not recorded, so they are not used for updating the master branch OPF
+  The exported text is released in the “temp” section of the release
 
-### Participating publishers
-* Shechen Publications
-* Tsadra Publications
-* Etc.
-
-### How to find texts on GitHub
-Each Tibetan text is stored in its own repository. This repository is named after the text’s BDRC Resource ID, a reference number given by the Buddhist Digital Resource Center (BDRC).
-If you don’t know the BDRC Resource ID for the text you’re looking for, search for it directly on the BDRC website. Then search for that BDRC Resource ID on GitHub. Or search for the text’s title in Tibetan on GitHub.
+- **Releases**
+  Initial section contains the src text as-is; they may be plain text, ebook, HFML, word, etc
+  Temp section contains the exported text of the user outside of the collaboration
+  V### section contains the official release of the exported text
+  
