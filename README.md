@@ -1,9 +1,5 @@
 # The OpenPecha Project
 
-<button href="https://github.com/OpenPecha/openpecha.github.io/blob/master/repository/README.md" download="README.md" type="button">Download</button>
-
-<a id="raw-url" href="https://raw.githubusercontent.com/OpenPecha/openpecha.github.io/master/repository/README.md" download>Download</a>
-
 The OpenPecha project is providing:
 - a [format](https://openpecha.github.io/format/) to represent a text with all sorts of annotations
 - a [toolkit](https://openpecha.github.io/toolkit/) working on the format (import / export, update, etc.)
