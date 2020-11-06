@@ -19,3 +19,5 @@ OPF is an open folder format, which means it’s not a compiled file, but simply
       - 📄 title.yml
 
 In the example above, the text has the globally unique and persistent identifier “P000780”; its source text is the “base” directory. (In this case, it comes from an image scan and its raw OCR data found in the github release “v0.1”). It is then formatted as an OPF base text. This OPF has annotation layers for metadata (meta.yml), index/toc (index.yml), and titles (title.yml). “Layers” is simply a list of the annotation layers that are linked to the text, and “title” is a layer that gives formatting annotations for titles (similar to the <title></title> inline tag in HTML).
+
+![](https://lh4.googleusercontent.com/CpHSHC0OJHpOg3OEJGSrn1hV_H_hEX6dnFyL2wfuPJZixvntbeqiofSAQWGs_PmZvk2gxHId0n1dmFe2PDxiroNWWLIJKLQ8sum9vAWV-eLg5ZhrR4QE2GTWI24WXB9MZIAW1GWq)
