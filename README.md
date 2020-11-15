@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/17675331/99162942-6459e280-273e-11eb-9e3d-f240ebe79ad4.png)
+![](https://user-images.githubusercontent.com/17675331/99176392-2d87ca80-2746-11eb-9aa7-301dadfa6b52.png)
 
 
 The OpenPecha project is providing:
