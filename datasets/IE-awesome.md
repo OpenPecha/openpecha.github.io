@@ -1,15 +1,20 @@
 
 ## Contents
+- [མཚོན་བྱ་དང་མཚན་ཉིད།](#མཚོན་བྱ། མཚན་ཉིད། མཚན་གཞི།)
+- [གོ་བྱ་དང་གོ་དོན།](#གོ་བྱ། གོ་དོན། སྐབས་བསྟུན་གྱི་གོ་དོན།)
+- [འགྲེལ་གཞི་དང་འགྲེལ་བཤད།](#འགྲེལ་གཞི། འགྲེལ་བཤད། སྐབས་བསྟུན་འགྲེལ་བཤད།)
+- [དབྱེ་གཞི་དང་དབྱེ་བ།](#དབྱེ་གཞི་དང་དབྱེ་བ།)
+- [སྒྲ་གཞི་དང་སྒྲ་བཤད།](#སྒྲ་གཞི་དང་སྒྲ་བཤད།)
+- [བསྡུས་གྲྭ](#བསྡུས་གྲྭ)
+- [བརྡ་སྤྲོད།](བརྡ་སྤྲོད།)
 
-
-- [Meaning](#Meaning)
 
 
 
 ## མཚོན་བྱ། མཚན་ཉིད། མཚན་གཞི། 
 [མཚོན་བྱ་དང་མཚན་ཉིད།](https://github.com/buda-base/bonlp-datasets/tree/master/%E0%BD%98%E0%BD%9A%E0%BD%93%E0%BC%8B%E0%BD%89%E0%BD%B2%E0%BD%91%E0%BC%8D%20definition/etext)
 
-## Meaning
+## གོ་བྱ། གོ་དོན། སྐབས་བསྟུན་གྱི་གོ་དོན།
 - [གོ་བྱ་དང་གོ་དོན།](https://github.com/jeehuajian/Lighttag-Training-NER-Explanation) - ཚང་མ་ཚར་ཡོད།
 - [གོ་བྱ་དང་གོ་དོན།](https://github.com/buda-base/bonlp-datasets/tree/master/%E0%BD%82%E0%BD%BC%E0%BC%8B%E0%BD%91%E0%BD%BC%E0%BD%93%E0%BC%8D%20meaning/text) - ཚང་མ་ཚར་ཡོད།
 
@@ -17,7 +22,7 @@
 - [འགྲེལ་གཞི་དང་འགྲེལ་བཤད།](https://github.com/jeehuajian/lighttage_NER_Derivation-Description)
 - [འགྲེལ་གཞི་དང་འགྲེལ་བཤད།](https://github.com/buda-base/bonlp-datasets/tree/master/explanations)
 - [འགྲེལ་གཞི་དང་འགྲེལ་བཤད།](https://github.com/buda-base/bonlp-datasets/tree/master/%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BD%A4%E0%BD%91%E0%BC%8D%20explanation/text)
-## དབྱེ་གཞི་དང་དབྱེད། 
+## དབྱེ་གཞི་དང་དབྱེ་བ།
 - [དབྱེ་གཞི་དང་དབྱེ་བ།](https://github.com/jeehuajian/litghttag-training-NER-Enumeration-and-definition) - འདིའི་ནང་མཚོན་བྱ་མཚན་ཉིད་དང་དབྱེ་གཞི་དབྱེ་བ་མཉམ་དུ་འདུག
 - [དབྱེ་གཞི་དང་དབྱེ་བ།](https://github.com/buda-base/bonlp-datasets/tree/master/%E0%BD%A2%E0%BE%A3%E0%BD%98%E0%BC%8B%E0%BD%82%E0%BE%B2%E0%BD%84%E0%BD%A6%E0%BC%8D%20enumeration/etext)
 ## བསྡུས་གྲྭ
