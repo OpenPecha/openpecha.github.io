@@ -8,7 +8,7 @@
 - [Dudra བསྡུས་གྲྭ](#Dudra-བསྡུས་གྲྭ)
 - [Grammar བརྡ་སྤྲོད།](Grammar-བརྡ་སྤྲོད།)
 - [Word Segmentation](#word-segmentation)
-- [POS Tag](#POS-Tag-ཚིག་གཤིས་ངོས་འཛིན།)
+- [POS Tag](#POS-Tag)
 
 ## Definition, defined, instance མཚོན་བྱ། མཚན་ཉིད། མཚན་གཞི། 
 [མཚོན་བྱ་དང་མཚན་ཉིད།](https://github.com/buda-base/bonlp-datasets/tree/master/%E0%BD%98%E0%BD%9A%E0%BD%93%E0%BC%8B%E0%BD%89%E0%BD%B2%E0%BD%91%E0%BC%8D%20definition/etext)
@@ -44,7 +44,7 @@
 - [WebCrawl](https://github.com/Esukhia/Corpora/tree/master/WebCrawl)
 - [nalanda_segmentation](https://github.com/Esukhia/nalanda_segmentation)
 
-## POS Tag ཚིག་གཤིས་ངོས་འཛིན།
+## POS Tag
 - [lighttag](https://github.com/OpenPecha/ie-datasets/tree/master/grammar)
 - [UD POS syntax csv file](https://docs.google.com/spreadsheets/d/140Nqi1DsDCfiwL8u3J3GJFeGdPmrJIn7_aLIHf2PoYY/edit#gid=971762751)
 - [SOAS POS Tags examples](https://docs.google.com/spreadsheets/d/18I3UF2TbNtL2NYMGbG2N8goULZZs1aM4WA-14TKW8zw/edit#gid=890687672)
