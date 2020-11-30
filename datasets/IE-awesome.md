@@ -5,7 +5,7 @@
 - [What is explained and explanation འགྲེལ་གཞི་དང་འགྲེལ་བཤད།](#What-is-explained-and-explanation-འགྲེལ་གཞི།-འགྲེལ་བཤད།-སྐབས་བསྟུན་འགྲེལ་བཤད།)
 - [What is enumerated and enumeration](#What-is-enumerated-and-enumeration-དབྱེ་གཞི་དང་དབྱེ་བ།དབྱེ་གཞི་དང་དབྱེ་བ།)
 - [What is explained and word part explanation སྒྲ་གཞི་དང་སྒྲ་བཤད།](#What-is-explained-and-word-part-explanation-སྒྲ་གཞི་དང་སྒྲ་བཤད།)
-- [Dudra བསྡུས་གྲྭ](#Dudra-བསྡུས་གྲྭ
+- [Dudra བསྡུས་གྲྭ](#Dudra-བསྡུས་གྲྭ)
 - [Grammar བརྡ་སྤྲོད།](Grammar-བརྡ་སྤྲོད།)
 - [Word Segmentation](#word-segmentation)
 - [POS Tag](#POS-Tag-ཚིག་གཤིས་ངོས་འཛིན།)
@@ -21,18 +21,24 @@
 - [lighttage_NER_Derivation-Description](https://github.com/OpenPecha/ie-datasets/tree/master/lighttage_NER_Derivation-Description)
 - [explanations](https://github.com/OpenPecha/ie-datasets/tree/master/explanations)
 - [འགྲེལ་བཤད། explanation](https://github.com/OpenPecha/ie-datasets/tree/master/%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BD%A4%E0%BD%91%E0%BC%8D%20explanation/text)
+
 ## What is enumerated and enumeration དབྱེ་གཞི་དང་དབྱེ་བ།
 - [litghttag-training-NER-Enumeration-and-definition](https://github.com/OpenPecha/ie-datasets/tree/master/litghttag-training-NER-Enumeration-and-definition) - འདིའི་ནང་མཚོན་བྱ་མཚན་ཉིད་དང་དབྱེ་གཞི་དབྱེ་བ་མཉམ་དུ་འདུག
 - [རྣམ་གྲངས། enumeration](https://github.com/OpenPecha/ie-datasets/tree/master/%E0%BD%A2%E0%BE%A3%E0%BD%98%E0%BC%8B%E0%BD%82%E0%BE%B2%E0%BD%84%E0%BD%A6%E0%BC%8D%20enumeration/etext)
+
 ## What is explained and word part explanation སྒྲ་གཞི་དང་སྒྲ་བཤད།
 - [སྒྲ་བཤད word part explanation](https://github.com/OpenPecha/ie-datasets/tree/master/%E0%BD%A6%E0%BE%92%E0%BC%8D%E0%BC%8B%E0%BD%96%E0%BD%A4%E0%BD%91%20word%20part%20explanation/text)
+
 ## Dudra བསྡུས་གྲྭ
-- [བསྡུས་གྲྭ](https://github.com/OpenPecha/ie-datasets/tree/master/dudra) བསྡུས་གྲྭ་རྐྱང་པའི་དཔེ་ཆའི་ནང་མཚན་ཉིད་དང་། དབྱེ་བ། སྒྲ་བཤད་སོགས་ཀྱི་རྟགས་མཉམ་བསྲེས་བྱས་ནས་བཞག་ཡོད།
+- [dudra](https://github.com/OpenPecha/ie-datasets/tree/master/dudra) བསྡུས་གྲྭ་རྐྱང་པའི་དཔེ་ཆའི་ནང་མཚན་ཉིད་དང་། དབྱེ་བ། སྒྲ་བཤད་སོགས་ཀྱི་རྟགས་མཉམ་བསྲེས་བྱས་ནས་བཞག་ཡོད།
+
 ## Grammar བརྡ་སྤྲོད། 
-- [བརྡ་སྤྲོད།](https://github.com/OpenPecha/ie-datasets/tree/master/grammar) བརྡ་སྤྲོད་རྐྱང་པའི་དཔེ་ཆའི་ནང་མཚན་ཉིད་དང་། དབྱེ་བ། སྒྲ་བཤད་སོགས་ཀྱི་རྟགས་མཉམ་བསྲེས་བྱས་ནས་བཞག་ཡོད།
+- [grammar](https://github.com/OpenPecha/ie-datasets/tree/master/grammar) བརྡ་སྤྲོད་རྐྱང་པའི་དཔེ་ཆའི་ནང་མཚན་ཉིད་དང་། དབྱེ་བ། སྒྲ་བཤད་སོགས་ཀྱི་རྟགས་མཉམ་བསྲེས་བྱས་ནས་བཞག་ཡོད།
+
 ## Word Segmentation 
 - [soas-segmentation-biluo](https://github.com/OpenPecha/ie-datasets/tree/master/soas-segmentation-biluo) 
 - [soas-segmentation](https://github.com/OpenPecha/ie-datasets/tree/master/soas-segmentation)
+
 ## POS Tag ཚིག་གཤིས་ངོས་འཛིན།
 - [lighttag](https://github.com/OpenPecha/ie-datasets/tree/master/grammar)
 - [UD POS syntax csv file](https://docs.google.com/spreadsheets/d/140Nqi1DsDCfiwL8u3J3GJFeGdPmrJIn7_aLIHf2PoYY/edit#gid=971762751)
