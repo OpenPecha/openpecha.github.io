@@ -1,5 +1,5 @@
 
-## ## Information Extraction Training Data
+## Information Extraction Training Data
 - [Definition, defined, instance མཚོན་བྱ། མཚན་ཉིད། མཚན་གཞི།](#Definition,-defined,-instance-མཚོན་བྱ།-མཚན་ཉིད།-མཚན་གཞི།)
 - [What is explained and meaning གོ་བྱ་དང་གོ་དོན།](#What-is-explained-and-meaning-གོ་བྱ།-གོ་དོན།-སྐབས་བསྟུན་གྱི་གོ་དོན།)
 - [What is explained and explanation འགྲེལ་གཞི་དང་འགྲེལ་བཤད།](#What-is-explained-and-explanation-འགྲེལ་གཞི།-འགྲེལ་བཤད།-སྐབས་བསྟུན་འགྲེལ་བཤད།)
