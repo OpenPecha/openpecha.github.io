@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/17675331/123587385-c6bcaa80-d818-11eb-95e1-fdbd5584a212.png)
 
 # OpenPecha Documentation
 
