@@ -11,3 +11,5 @@ The OpenPecha project is providing:
 OpenPecha is an open collaborative initiative started by [BDRC](www.tbrc.org). 
 
 Note that despite the Tibetan origin of the name (དཔེ་ཆ།), the format is not specific to this language.
+
+## [How to create pecha in OpenPecha](https://openpecha-dev.github.io/catalog/how_to_create_pecha/)
