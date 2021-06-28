@@ -1,4 +1,7 @@
-![](https://user-images.githubusercontent.com/17675331/99181189-d561c000-2767-11eb-9618-639d338d9709.png)
+![image](https://user-images.githubusercontent.com/17675331/123587385-c6bcaa80-d818-11eb-95e1-fdbd5584a212.png)
+
+# OpenPecha Documentation
+
 
 The OpenPecha project is providing:
 - a [format](https://openpecha.github.io/format/) to represent a text with all sorts of annotations
