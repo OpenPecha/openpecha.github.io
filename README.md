@@ -1,4 +1,4 @@
-## Dowloading a corpus
+## Dowloading a training data
 
 ### Install
 
