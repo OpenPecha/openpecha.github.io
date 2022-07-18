@@ -1,6 +1,6 @@
 title: OpenPecha
 logo:
-description: Demonstrate how to modify the default pages-themes/minimal to look more like bdhu/bdhu.github.io
+description: 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
