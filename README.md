@@ -1,4 +1,4 @@
-## Dowloading a training data
+## Dowloading training data
 
 ### Install
 
