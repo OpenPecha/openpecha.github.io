@@ -1,6 +1,6 @@
 title: OpenPecha
 logo: /assets/img/logo.png
 description: 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 favicon: favicon.ico
 show_downloads: false
