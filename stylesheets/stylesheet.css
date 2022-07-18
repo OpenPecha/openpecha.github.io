@@ -73,7 +73,7 @@ a:hover {
     color: #fff;
     text-align: center;
     background-color: #0fdfec;
-    background-image: linear-gradient(120deg, #0fdfec, #8E57F1);
+    background-image: linear-gradient(120deg, #8E57F1, #0fdfec);
 }
 
 @media screen and (min-width: 64em) {
