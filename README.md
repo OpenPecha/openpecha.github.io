@@ -1,9 +1,3 @@
----
-title: OpenPecha
-layout: template
-filename: index
---- 
-
 ## Dowloading training data
 
 ### Install
