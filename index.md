@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 ## Dowloading training data
 
 ### Install
