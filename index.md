@@ -1,6 +1,3 @@
----
-layout: default
---- 
 
 ## Dowloading training data
 
