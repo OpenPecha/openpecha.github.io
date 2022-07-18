@@ -22,6 +22,6 @@ download_corpus(
 )
 ```
 
-### More features coming soon!
+### More features coming soon..
 
 
