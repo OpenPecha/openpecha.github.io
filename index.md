@@ -1,5 +1,5 @@
 ---
-layout: template
+layout: default
 --- 
 
 ## Dowloading training data
