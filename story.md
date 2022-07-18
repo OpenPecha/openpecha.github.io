@@ -4,4 +4,4 @@ layout: template
 filename: story
 --- 
 
-test
+Our story coming soon...
