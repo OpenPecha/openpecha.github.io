@@ -2,22 +2,19 @@
 layout: default
 ---
 
-## Why OpenPecha?
+OpenPecha is a collaborative repository of e-texts and annotations focused on Buddhist knowledge. 
+
+The OpenPecha dataset is made available in two ways: through the OpenPecha APIs and on Github. Our dataset is gradually increasing in quantity and quality through direct contributions from core members and from apps using our APIs.
+
+OpenPecha is structured as three APIs: Librarian, Scholar, and Professional. 
+
+**The Librarian API** functions as a librarian would. Ask where you can get a book or a list of books on a given topic, and you'll get actual book files or information about books. 
+**The Scholar API** functions as a scholar would. If you want information about a subject, you'll get a detailed answer in the form of citations from the reference literature. 
+**The Professional API** functions as an experienced working professional would. Ask it questions and it will give simple, to-the-point answers that are relevant to your situation.
 
 
-## Dowloading training data
-
-### Install
-
-```bash
-pip install openpecha
-```
-
-### Download
-```python
-from openpecha.corpus.download import download_corpus
-
-corpus_path = download_corpus(corpus_name="literary_bo")
-```
-
-### More features coming soon!
+| Functions        | Dimension | Example Query                                                                                                                                              | Content                        | Annotations                                                                                                           | Links / Relationships                                                                                | Sources                                                                    |                                                                                                                       |                                                                                                      | Sources                                                                    |
+|------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------|
+| Librarian API    | Text      | - Where can I find the best edition of a book by an author? - I'm looking for a book on x topic, from the 15th century. - Can you recommend a book on xyz? | - book copies - audio / videos | - info about books     - bibliography    - topics - structural information                                            | - work <-> editions - editions <-> etexts - etext <-> images / timecode                              | - OCR - Speech-to-text - Manual input - Proofreading - Library catalogs    |                                                      Annotations                                                      |                                         Links / Relationships                                        |                                                                            |
+| Scholar API      | Content   | - What are the different ways to explain this verse? - Different positions on xyz topic? - Could you provide the best reading of xyz work?                 | - edited version of a text     | - information about the content    - commentaries    - comments (footnotes, notes, critical aparatus)    - highlights | - explanations - citation <-> source - passage <-> interpretations - topic <-> debate - translations | - Rich epubs - Interactive epubs / webpubs - Reading apps - NLP / NER / IE |                       - info about books     - bibliography    - topics - structural information                      |                - work <-> editions - editions <-> etexts - etext <-> images / timecode               | - OCR - Speech-to-text - Manual input - Proofreading - Library catalogs    |
+| Professional API | Concepts  | - What is the meaning of xyz? - How do you do xyz? - What is the solution for xyz?                                                                         | - knowledge                    | - user experience - context -                                                                                         | - knowledge <-> real life                                                                            | - Professional tools  - Usage Stats - Reviews / feedback                   | - information about the content    - commentaries    - comments (footnotes, notes, critical aparatus)    - highlights | - explanations - citation <-> source - passage <-> interpretations - topic <-> debate - translations | - Rich epubs - Interactive epubs / webpubs - Reading apps - NLP / NER / IE |
