@@ -1,28 +1,29 @@
 # Members
 
-![BDRC logo](https://user-images.githubusercontent.com/51434640/187228229-52b42790-4868-4cb6-bc33-cfe5cf67d2e0.png)
+![BDRC logo](https://user-images.githubusercontent.com/51434640/194330710-b494f518-49f3-410b-9c8d-b2be9d536336.png)
 
-The Buddhist Digital Resource Center is a nonprofit organization dedicated to seeking out, preserving, documenting, and disseminating Buddhist literature.
+The **Buddhist Digital Resource Center** is a nonprofit organization dedicated to seeking out, preserving, documenting, and disseminating Buddhist literature.
 
-![Esukhia logo](https://user-images.githubusercontent.com/51434640/187224283-66860083-620a-4bc9-9c7f-ef71d60ae4a2.png)
+![Esukhia logo](https://user-images.githubusercontent.com/51434640/194332049-69eca3a1-7539-40c0-a3ff-d18c810f9a6c.png)
 
-Esukhia is a network of schools, teachers, and researchers who specialize in resources dedicated to the Tibetan languages and their textual traditions.
+**Esukhia** is a network of schools, teachers, and researchers who specialize in resources dedicated to the Tibetan languages and their textual traditions.
 
 ![Lotus King Trust logo](https://user-images.githubusercontent.com/51434640/187227822-a3496770-b21f-4351-b223-a718cead367f.png)
 
-Lotus King Trust supports the propagation and practice of Buddhadharma and the meaningful development of remote Himalayan communities.
+**Lotus King Trust** supports the propagation and practice of Buddhadharma and the meaningful development of remote Himalayan communities.
 
-![Indrajala logo](https://user-images.githubusercontent.com/51434640/194329264-3c222a42-4649-4610-9a35-82deee2bd188.png)
+![Indrajala logo](https://user-images.githubusercontent.com/51434640/194333131-87cc4b6b-3e6a-4d3b-99e1-30e50c0a8d83.png)
 
+**Indrajala**
 
 # Partners
 
-![kumarajive logo](https://user-images.githubusercontent.com/51434640/187229430-aaccfd84-b3d8-4323-9c27-c69a9ec2a67b.png)
+![kumarajive logo](https://user-images.githubusercontent.com/51434640/194333860-2becd2c2-da91-4a65-9285-812636e39512.png)
 
-The Kumarajiva Project aims to translate into Chinese all the texts in the Tibetan Buddhist canon that are not currently available in the Chinese canon.
+**The Kumarajiva Project** aims to translate into Chinese all the texts in the Tibetan Buddhist canon that are not currently available in the Chinese canon.
 
-![pecha jobs logo](https://user-images.githubusercontent.com/51434640/187231195-122c9d8e-86fe-49e8-9b69-793fcdedcfe0.png)
+![pecha jobs logo](https://user-images.githubusercontent.com/51434640/194334976-7bf11a2e-715b-4e54-aec8-51b05a9aa83f.png)
 
-Pecha Jobs
+**Pecha Jobs**
 
 
