@@ -8,11 +8,12 @@ The Buddhist Digital Resource Center is a nonprofit organization dedicated to se
 
 Esukhia is a network of schools, teachers, and researchers who specialize in resources dedicated to the Tibetan languages and their textual traditions.
 
-![ Lotus King Trust logo](https://user-images.githubusercontent.com/51434640/187227822-a3496770-b21f-4351-b223-a718cead367f.png)
+![Lotus King Trust logo](https://user-images.githubusercontent.com/51434640/187227822-a3496770-b21f-4351-b223-a718cead367f.png)
 
 Lotus King Trust supports the propagation and practice of Buddhadharma and the meaningful development of remote Himalayan communities.
 
-- Indrajala
+![Indrajala logo](https://user-images.githubusercontent.com/51434640/194329264-3c222a42-4649-4610-9a35-82deee2bd188.png)
+
 
 # Partners
 
