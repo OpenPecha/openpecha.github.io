@@ -22,6 +22,6 @@ The **Buddhist Digital Resource Center** is a nonprofit organization dedicated t
 
 **The Kumarajiva Project** aims to translate into Chinese all the texts in the Tibetan Buddhist canon that are not currently available in the Chinese canon.
 
-![pecha jobs logo](https://user-images.githubusercontent.com/51434640/194739286-3d156584-f308-4a1d-9d7e-63c65656b395.png)
+![pecha jobs logo](https://user-images.githubusercontent.com/51434640/194739884-2fc3d7f2-0b2b-4a3f-9091-7eefb62c3cc3.png)
 
 **pecha.jobs** performs technical services for individuals and organizations working to preserve and promote the Tibetan language, culture, and religion.
