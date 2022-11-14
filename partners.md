@@ -10,7 +10,7 @@ The **Buddhist Digital Resource Center** is a nonprofit organization dedicated t
 
 ![Indrajala logo](https://user-images.githubusercontent.com/51434640/194739512-b14be290-b7fa-4ea6-bfb7-f89124e37188.png)
 
-**Indrajala** 
+**Indrajala** powers Buddhist technology through the gift of data.
 
 ![Lotus King Trust logo](https://user-images.githubusercontent.com/51434640/194739430-e751a55c-d584-4cca-9c66-45eb5f79d3ee.png)
 
