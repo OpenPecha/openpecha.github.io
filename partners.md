@@ -16,6 +16,10 @@ The **Buddhist Digital Resource Center** is a nonprofit organization dedicated t
 
 **Lotus King Trust** supports the propagation and practice of Buddhadharma and the meaningful development of remote Himalayan communities.
 
+![Monlam logo](https://user-images.githubusercontent.com/51434640/212262242-cd067c3d-6e79-475b-9271-6468dc260b61.png)
+
+**Monlam IT** creates digital tools to help protect and strengthen the Tibetan language and culture.
+
 ---
 
 ## Partners
