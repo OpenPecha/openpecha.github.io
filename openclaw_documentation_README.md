@@ -1,19 +1,21 @@
 # openpecha.github.io
 
-OpenPecha home page
+OpenPecha home page website
 
-## Language
+## Description
 
-SCSS
+These are the website files for openpecha.org
 
-## Installation
+## Owner
 
-See repository for installation instructions.
+- [@ngawangtrinley](https://github.com/ngawangtrinley)
+- [@evanyerburgh](https://github.com/evanyerburgh)
 
-## Usage
+## How to get help
 
+- Open an issue at https://github.com/OpenPecha/openpecha.github.io/issues
+- Check existing issues for solutions
 
+## Terms of use
 
-## License
-
-See repository for license details.
+This project is part of OpenPecha. See https://openpecha.org for terms of use.
